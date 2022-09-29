@@ -1,0 +1,39 @@
+body {
+    background-image: url(kali.jpg);
+    height: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+
+    border-color: white;
+    border-radius: 10px;
+    border-style: double;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+
+    border-color: white;
+    border-radius: 10px;
+    border-style: inherit;
+    background: white;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    
+}
+
+ul {
+    color: white;
+
+}
+
+#volver {
+    border: 5px solid;
+    border-color: white;
+    background-color: white;
+    border-radius: 5px;
+    width: 97%;
+}
