@@ -1,0 +1,61 @@
+.redes {
+    border: 2px #3465a4 solid;
+    border-radius: 10px;
+    background: #b4c7dc;
+    width: 100%;
+    height: 50px;
+}
+
+.menu{
+    margin-top: 10px;
+    border: 2px #168253 solid;
+    border-radius: 10px;
+    background: #afd095;
+    width: 100%;
+    height: 50px;
+}
+
+#cuerpo{
+    width: 100%;
+    height: 100%;
+}
+
+.extras{
+    float: left;
+    margin-top: 10px;
+    border: 2px #77bc65 solid;
+    border-radius: 10px;
+    background: #d4ea6b;
+    width: 40%;
+    height: 100px;
+}
+
+.blog{
+    float: right;
+    margin-top: 10px;
+    border: 2px #b4c7dc solid;
+    border-radius: 10px;
+    background: #dde8cb;
+    width: 50%;
+    height: 250px;
+}
+
+.imagen{
+        float: left;
+        margin-top: 10px;
+        border: 2px #77bc65 solid;
+        border-radius: 10px;
+        background: #d4ea6b;
+        width: 40%;
+        height: 100px;
+}
+
+footer{
+    float: left;
+    margin-top: 10px;
+    border: 2px #ffffa6 solid;
+    border-radius: 10px;
+    background: #d4ea6b;
+    width: 100%;
+    height: 100px;
+}
